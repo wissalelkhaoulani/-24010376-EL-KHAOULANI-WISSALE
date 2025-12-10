@@ -1,3 +1,11 @@
+# Cours de science de données 
+# EL KHAOULANI WISSALE
+# Ecole national de commerce et de gestion
+<img src="photo.jpg" style="height:150px;margin-right:100px"/> 
+
+
+
+
 # RAPPORT PROFESSIONNEL D'ANALYSE
 # Projet : Système de Détection de Fraude Financière
 # Dataset : Fraud Guard Synthetic 2025
