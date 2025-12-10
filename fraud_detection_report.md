@@ -13,9 +13,8 @@
 
 ---
 
-**Auteur** : Data Science Team  
-**Date** : Décembre 2025  
-**Type de Projet** : Classification Binaire Supervisée  
+**Auteur** : EL KHAOULANI WISSALE   
+**Date** : 10 Décembre 2025    
 **Criticité** : Haute (Enjeux financiers et réglementaires)
 
 ---
