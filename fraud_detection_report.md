@@ -1,8 +1,9 @@
 # Cours de science de données 
+# 24010376
+# CAC2
 # EL KHAOULANI WISSALE
 # Ecole national de commerce et de gestion
 <img src="photo.jpg" style="height:150px;margin-right:100px"/> 
-
 
 
 
