@@ -5,7 +5,7 @@
 # Ecole national de commerce et de gestion
 <img src="photo.jpg" style="height:150px;margin-right:100px"/> 
 
-
+<img src="image ENCG.png" style="height:150px;margin-right:100px"/> 
 
 # RAPPORT PROFESSIONNEL D'ANALYSE
 # Projet : Système de Détection de Fraude Financière
